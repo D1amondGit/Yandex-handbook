@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3751878-c012-46d5-82b5-31332175a8b1" name="Changes" comment="23.09.2026">
+      <change afterPath="$PROJECT_DIR$/.idea/Yandex-handbook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/P.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook/Cycles/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook/Cycles/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook/Cycles/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook/Cycles/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook/Cycles/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook/Cycles/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook/Cycles/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook/Cycles/H.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/H.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook/Cycles/I.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook/Cycles/J.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/J.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook/Cycles/K.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/K.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook/Cycles/L.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/L.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook/Cycles/M.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/M.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook/Cycles/N.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/N.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook/Cycles/O.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/O.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/D1amondGit/Python_Yandex-handbook.git",
+    "accountId": "cd4deb25-8865-4ccf-bc17-2313ee322480"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="3Jk2LEI0ajLgranJrFjxRj2AMB5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Пользователь/PycharmProjects/Yandex-handbook"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Пользователь\PycharmProjects\Yandex-handbook" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3751878-c012-46d5-82b5-31332175a8b1" name="Changes" comment="" />
+      <created>1790190690059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790190690059</updated>
+    </task>
+    <task id="LOCAL-00001" summary="23.09.2026">
+      <option name="closed" value="true" />
+      <created>1790190758428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790190758428</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="23.09.2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.09.2026" />
+  </component>
+</project>
