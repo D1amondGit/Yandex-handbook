@@ -4,13 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3751878-c012-46d5-82b5-31332175a8b1" name="Changes" comment="23.09.2026">
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/R.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/S.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/T.py" afterDir="false" />
+    <list default="true" id="b3751878-c012-46d5-82b5-31332175a8b1" name="Changes" comment="01.10.2026">
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/F.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/G.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/H.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/J.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/K.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/L.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/M.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/P.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/P.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/H.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/H.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/I.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/J.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/J.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/K.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/K.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/L.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/L.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/M.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/M.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/N.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/N.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/O.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/O.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/P.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/P.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/Q.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/Q.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/R.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/R.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/S.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/S.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Cycles/T.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/T.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +48,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -50,12 +79,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.A.executor": "Run",
+    "Python.B.executor": "Run",
+    "Python.C.executor": "Run",
+    "Python.D.executor": "Run",
+    "Python.E.executor": "Run",
+    "Python.F.executor": "Run",
+    "Python.G.executor": "Run",
+    "Python.H.executor": "Run",
+    "Python.I.executor": "Run",
+    "Python.J.executor": "Run",
+    "Python.K.executor": "Run",
+    "Python.L.executor": "Run",
     "Python.P.executor": "Run",
     "Python.Q.executor": "Run",
     "Python.R.executor": "Run",
     "Python.S.executor": "Run",
     "Python.T.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Пользователь/PycharmProjects/Yandex-handbook"
@@ -97,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790191041352</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="01.10.2026">
+      <option name="closed" value="true" />
+      <created>1790835068022</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790835068022</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,30 +163,71 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="23.09.2026" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.09.2026" />
+    <MESSAGE value="01.10.2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="01.10.2026" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/Cycles/R.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/Loops/R.py</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/Cycles/R.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/Loops/R.py</url>
           <line>6</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/Cycles/R.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/Loops/R.py</url>
           <line>9</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/Cycles/T.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/Loops/T.py</url>
           <line>16</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/C.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/C.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/C.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/C.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/F.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/F.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/F.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/K.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
