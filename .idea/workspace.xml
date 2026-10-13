@@ -5,13 +5,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3751878-c012-46d5-82b5-31332175a8b1" name="Changes" comment="02.10.2026">
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Context_2/2.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Context_2/2.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/Context_2/2.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/R.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/S.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/T.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/F.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/G.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/H.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/J.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/K.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/L.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/M.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/N.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/O.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/P.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/R.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/S.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/T.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Context_2/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Context_2/2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Context_2/2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Context_2/2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Context_2/2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Context_2/2.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/H.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/H.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/I.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/J.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/J.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/K.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/K.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/L.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/L.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/M.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/M.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/N.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/N.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/O.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/O.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/P.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/P.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/Q.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/Q.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/R.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/R.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/S.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/S.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/T.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/T.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/H.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/H.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/I.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/J.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/J.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/K.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/K.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/L.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/L.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/M.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/M.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/N.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/N.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/O.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/O.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/P.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/P.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/Q.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/Q.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/R.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/R.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/S.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/S.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/T.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/T.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +132,8 @@
     "Python.R.executor": "Run",
     "Python.S.executor": "Run",
     "Python.T.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.С.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -85,6 +144,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Пользователь\PycharmProjects\Yandex-handbook" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Пользователь\PycharmProjects\Yandex-handbook\Yandex-handbook_Python\BasicConstructs" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -174,139 +236,199 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/Loops/R.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/R.py</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/Loops/R.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/R.py</url>
           <line>6</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/Loops/R.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/R.py</url>
           <line>9</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/Loops/T.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/T.py</url>
           <line>16</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/C.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/C.py</url>
           <line>6</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/C.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/C.py</url>
           <line>7</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/C.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/C.py</url>
           <line>9</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/C.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/C.py</url>
           <line>8</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/F.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/F.py</url>
           <line>4</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/F.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/F.py</url>
           <line>5</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/F.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/F.py</url>
           <line>6</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/K.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/K.py</url>
           <line>11</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/O.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/O.py</url>
           <line>14</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/O.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/O.py</url>
           <line>16</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/O.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/O.py</url>
           <line>11</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/O.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/O.py</url>
           <line>18</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/R.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/R.py</url>
           <line>9</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/R.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/R.py</url>
           <line>10</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/R.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/R.py</url>
           <line>5</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/T.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/T.py</url>
           <line>7</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/T.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/T.py</url>
           <line>8</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/T.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/T.py</url>
           <line>9</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/T.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/T.py</url>
           <line>10</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/Context_2/2.2.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Context_2/2.2.py</url>
           <line>5</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/Context_2/2.2.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Context_2/2.2.py</url>
           <line>6</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/Context_2/2.2.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Context_2/2.2.py</url>
           <line>10</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/Context_2/2.3.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Context_2/2.3.py</url>
           <line>21</line>
           <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/K.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/K.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/K.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/K.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/K.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/P.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/R.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/R.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/R.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/R.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/S.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/S.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
