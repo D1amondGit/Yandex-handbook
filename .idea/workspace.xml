@@ -4,71 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3751878-c012-46d5-82b5-31332175a8b1" name="Changes" comment="02.10.2026">
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/G.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/H.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/J.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/K.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/L.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/M.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/N.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/O.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/P.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/R.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/S.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/T.py" afterDir="false" />
+    <list default="true" id="b3751878-c012-46d5-82b5-31332175a8b1" name="Changes" comment="13.10.2026">
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/F.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/G.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/H.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/J.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/K.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/L.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/M.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/N.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/O.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/P.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/R.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/S.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/T.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Context_2/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Context_2/2.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Context_2/2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Context_2/2.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Context_2/2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Context_2/2.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/E.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/F.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/G.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/H.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/H.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/I.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/I.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/J.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/J.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/K.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/K.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/L.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/L.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/M.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/M.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/N.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/N.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/O.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/O.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/P.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/P.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/Q.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/Q.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/R.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/R.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/S.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/S.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/Loops/T.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/Loops/T.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/E.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/F.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/G.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/H.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/H.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/I.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/I.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/J.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/J.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/K.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/K.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/L.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/L.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/M.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/M.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/N.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/N.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/O.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/O.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/P.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/P.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/Q.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/Q.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/R.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/R.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/S.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/S.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/NestedLoops/T.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/BasicConstructs/NestedLoops/T.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,41 +63,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.2.1.executor": "Run",
-    "Python.2.2.executor": "Run",
-    "Python.2.3.executor": "Run",
-    "Python.A.executor": "Run",
-    "Python.B.executor": "Run",
-    "Python.C.executor": "Run",
-    "Python.D.executor": "Run",
-    "Python.E.executor": "Run",
-    "Python.F.executor": "Run",
-    "Python.G.executor": "Run",
-    "Python.H.executor": "Run",
-    "Python.I.executor": "Run",
-    "Python.J.executor": "Run",
-    "Python.K.executor": "Run",
-    "Python.L.executor": "Run",
-    "Python.M.executor": "Run",
-    "Python.N.executor": "Run",
-    "Python.O.executor": "Run",
-    "Python.P.executor": "Run",
-    "Python.Q.executor": "Run",
-    "Python.R.executor": "Run",
-    "Python.S.executor": "Run",
-    "Python.T.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.С.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Пользователь/PycharmProjects/Yandex-handbook"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.E.executor&quot;: &quot;Run&quot;,
+    &quot;Python.F.executor&quot;: &quot;Run&quot;,
+    &quot;Python.G.executor&quot;: &quot;Run&quot;,
+    &quot;Python.H.executor&quot;: &quot;Run&quot;,
+    &quot;Python.I.executor&quot;: &quot;Run&quot;,
+    &quot;Python.J.executor&quot;: &quot;Run&quot;,
+    &quot;Python.K.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L.executor&quot;: &quot;Run&quot;,
+    &quot;Python.M.executor&quot;: &quot;Run&quot;,
+    &quot;Python.N.executor&quot;: &quot;Run&quot;,
+    &quot;Python.O.executor&quot;: &quot;Run&quot;,
+    &quot;Python.P.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q.executor&quot;: &quot;Run&quot;,
+    &quot;Python.R.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.С.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Пользователь/PycharmProjects/Yandex-handbook&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Пользователь\PycharmProjects\Yandex-handbook" />
@@ -212,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790940822768</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="13.10.2026">
+      <option name="closed" value="true" />
+      <created>1791896667422</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1791896667422</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,7 +195,8 @@
     <MESSAGE value="23.09.2026" />
     <MESSAGE value="01.10.2026" />
     <MESSAGE value="02.10.2026" />
-    <option name="LAST_COMMIT_MESSAGE" value="02.10.2026" />
+    <MESSAGE value="13.10.2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="13.10.2026" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -429,6 +395,51 @@
           <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/S.py</url>
           <line>8</line>
           <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/I.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/I.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/O.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/O.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/O.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/O.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/O.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/test.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/S.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="85" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,0 +1,1 @@
+print("".join(set(s := input())))
