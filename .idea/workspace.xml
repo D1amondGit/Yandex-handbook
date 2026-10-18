@@ -4,28 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3751878-c012-46d5-82b5-31332175a8b1" name="Changes" comment="13.10.2026">
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/G.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/H.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/J.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/K.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/L.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/M.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/N.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/O.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/P.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/R.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/S.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/T.py" afterDir="false" />
+    <list default="true" id="b3751878-c012-46d5-82b5-31332175a8b1" name="Changes" comment="18.10.2026">
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.3_ListComprehensions/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.3_ListComprehensions/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.3_ListComprehensions/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.3_ListComprehensions/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.3_ListComprehensions/E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.3_ListComprehensions/F.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.3_ListComprehensions/G.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.3_ListComprehensions/H.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.3_ListComprehensions/I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.3_ListComprehensions/J.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.3_ListComprehensions/K.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.3_ListComprehensions/L.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.3_ListComprehensions/M.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.3_ListComprehensions/N.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yandex-handbook_Python/ex.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/H.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/H.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/I.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/J.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/J.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/K.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/K.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/L.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/L.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/M.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/M.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/N.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/N.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/O.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/O.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/P.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/P.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/Q.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/Q.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/R.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/R.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/S.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/S.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/T.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/T.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/H.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/H.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/I.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/J.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/J.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/K.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/K.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/L.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/L.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/M.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/M.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/N.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/N.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/O.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/O.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/P.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/P.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/Q.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/Q.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/R.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/R.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/S.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/S.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/T.py" beforeDir="false" afterPath="$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/T.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791896667422</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="18.10.2026">
+      <option name="closed" value="true" />
+      <created>1792322447932</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1792322447932</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,7 +239,8 @@
     <MESSAGE value="01.10.2026" />
     <MESSAGE value="02.10.2026" />
     <MESSAGE value="13.10.2026" />
-    <option name="LAST_COMMIT_MESSAGE" value="13.10.2026" />
+    <MESSAGE value="18.10.2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="18.10.2026" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -337,97 +381,97 @@
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/K.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/K.py</url>
           <line>5</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/K.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/K.py</url>
           <line>7</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/K.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/K.py</url>
           <line>6</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/K.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/K.py</url>
           <line>8</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/K.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/K.py</url>
           <line>9</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/P.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/P.py</url>
           <line>9</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/R.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/R.py</url>
           <line>4</line>
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/R.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/R.py</url>
           <line>6</line>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/R.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/R.py</url>
           <line>8</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/R.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/R.py</url>
           <line>9</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/S.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/S.py</url>
           <line>7</line>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/StrokesTuplesLists/S.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.1_StrokesTuplesLists/S.py</url>
           <line>8</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/I.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/I.py</url>
           <line>4</line>
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/I.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/I.py</url>
           <line>6</line>
           <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/O.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/O.py</url>
           <line>7</line>
           <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/O.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/O.py</url>
           <line>8</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/O.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/O.py</url>
           <line>9</line>
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/O.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/O.py</url>
           <line>10</line>
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/O.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/O.py</url>
           <line>11</line>
           <option name="timeStamp" value="83" />
         </line-breakpoint>
@@ -437,7 +481,7 @@
           <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/SetsDictionaries/S.py</url>
+          <url>file://$PROJECT_DIR$/Yandex-handbook_Python/CollectionsAndMemoryManagement/3.2_SetsDictionaries/S.py</url>
           <line>5</line>
           <option name="timeStamp" value="85" />
         </line-breakpoint>
